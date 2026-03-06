@@ -1,5 +1,11 @@
 # svelte
 
+## 5.53.8
+
+### Patch Changes
+
+- perf: avoid re-traversing the effect tree after `$:` assignments ([#17848](https://github.com/sveltejs/svelte/pull/17848))
+
 ## 5.53.7
 
 ### Patch Changes
